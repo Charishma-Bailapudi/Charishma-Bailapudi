@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charishma-bailapudi&show_icons=true&locale=en" alt="charishma-bailapudi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charishma-bailapudi&" alt="charishma-bailapudi" /></p>
+
