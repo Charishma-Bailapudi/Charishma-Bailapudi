@@ -22,7 +22,7 @@
 <a href="https://discord.gg/9579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9579" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charishma-bailapudi&show_icons=true&locale=en&layout=compact" alt="charishma-bailapudi" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Charishma-Bailapudi&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charishma-bailapudi&show_icons=true&locale=en" alt="charishma-bailapudi" /></p>
 
