@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/charishma249" target="blank"><img src="https://img.shields.io/twitter/follow/charishma249?logo=twitter&style=for-the-badge" alt="charishma249" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs,BootStrap**
+- 🌱 I’m currently learning **Deeep Learning Project**
 
 - 📫 How to reach me **aswinicharishma0@gmail.com**
 
@@ -21,6 +21,7 @@
 <a href="https://www.hackerrank.com/20131a44101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20131a44101" height="30" width="40" /></a>
 <a href="https://discord.gg/9579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9579" height="30" width="40" /></a>
 </p>
+<p><img align="center" src="![LeetCode Stats](https://leetcard.jacoblin.cool/AswiniCharishma?theme=nord&font=Habibi&ext=heatmap)" alt="leetcode_stats"></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Charishma-Bailapudi&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
